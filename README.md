@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb		
-ccccccccccccccccccccccccccccccccc
-ddddddddddddddddddddddddddddddddd
+five steps in ci cd pipline,ther sre cdl clp cdp ct cdev
 <<<<<<< HEAD
 fffffffffffffffffffffffffffffffffff
 This is cmallikarjuna reddy .i am practing jenkines .i learn lot of thenics 
@@ -14,3 +11,4 @@ fffffffffffffffffffffffffffffffff
 =======
 some more changes to coade
 <<<<<<< 4bf4d9b0ed6bce972eac6e29ada290eb42021955
+
